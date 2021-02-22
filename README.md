@@ -3,7 +3,7 @@
 - 😄 Pronouns: She/Her
 - 🔭 I’m currently working on my portfolio and managing client projects.
 - 🌱 I’m currently learning programming in Python.
-- 💬 Ask me about Soft Rendezvous
+- 💬 Ask me about [Soft Rendezvous](https://soundcloud.com/softrendezvous)
 - 📫 How to reach me pamelajgilmour@gmail.com
 - ⚡ Fun fact: I'm a licensed acupuncturist in the state of California.
 - Here are some websites I've made:
