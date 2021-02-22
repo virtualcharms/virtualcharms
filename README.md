@@ -7,8 +7,8 @@
 - 📫 How to reach me pamelajgilmour@gmail.com
 - ⚡ Fun fact: I'm a licensed acupuncturist in the state of California.
 - Here are some websites I've made:
-virtualcharms.net
-pamgilmour.com
+  - [virtualcharms.net](https://www.virtualcharms.net)
+  - [pamgilmour.com](https://www.pamgilmour.com)
 
 <!--
 **virtualcharms/virtualcharms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
